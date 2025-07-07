@@ -7,7 +7,9 @@ theme: minima
 # Enable navigation links:
 header_pages:
   - bio.md
-  - works.md
+  - papers.md
+  - blog.md
+  - nature.md
 
 # Social links (optional):
 social_links:
