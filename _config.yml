@@ -1,0 +1,20 @@
+title: Noah Eckman
+description: My website.
+author: neckman
+theme: minima
+
+# Optional extras:
+# Enable navigation links:
+header_pages:
+  - bio.md
+  - works.md
+
+# Social links (optional):
+social_links:
+  - { platform: github, user_url: "https://github.com/neckman99" }
+  - { platform: linkedin, user_url: "https://linkedin.com/in/neckman" }
+  - { platform: twitter, user_url: "https://x.com/noaheckman" }
+
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
