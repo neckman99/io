@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Nature - not the journal
+title: nature
 permalink: /nature/
 ---
 
