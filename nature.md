@@ -22,7 +22,7 @@ A big part of my life, especially in California, has been developing an interest
 
 <h2>Photos</h2>
 
-I take some (mostly) crummy pictures, mainly of birds, but want to get more into general macro photography. I shoot on a Nikon D610 with a NIKKOR 200-500mm f/6.5 lens. I'm on [Instagram](https://www.instagram.com/neckman.aves/), where I post photos occasionally.
+I take some (mostly) crummy pictures, mainly of birds, but want to get more into general macro photography. I shoot on a Nikon D610 with a NIKKOR 200-500mm f/5.6 lens. I'm on [Instagram](https://www.instagram.com/neckman.aves/), where I post photos occasionally.
 
 <div class="gallery">
   <a href="/assets/birdgallery/20250125-JROO-4.jpg" data-lightbox="bird-gallery" data-title="Cedar Waxwing, Jasper Ridge">
