@@ -3,14 +3,6 @@ description: My website.
 author: neckman
 theme: minima
 
-# Optional extras:
-# Enable navigation links:
-header_pages:
-  - bio.md
-  - papers.md
-  - blog.md
-  - nature.md
-  
 minima:
   skin: dark
   social_links:
@@ -20,7 +12,13 @@ minima:
     - title: LinkedIn
       icon: LinkedIn
       url: "https://www.linkedin.com/in/neckman"
-      
+
+header_pages:
+  - bio.md
+  - papers.md
+  - blog.md
+  - nature.md
+
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
