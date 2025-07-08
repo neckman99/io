@@ -24,7 +24,7 @@ We describe the fundamental roles of biomaterials as both manufacturing platform
 
 <h3>making new biomaterials</h3>
 
-* Bailey, S. J.; **Eckman, N.**; Brunel, E. S.; Jons, C. K.; Sen, S.; Appel, E. A. [A Thiol–Ene Click-Based Strategy to Customize Injectable Polymer–Nanoparticle Hydrogel Properties for Therapeutic Delivery.](https://pubs.rsc.org/en/content/articlelanding/2025/bm/d4bm01315h) _Biomaterials Science_ 2025.
+* Bailey, S. J.; **Eckman, N.**; Brunel, E. S.; Jons, C. K.; Sen, S.; Appel, E. A. A Thiol–Ene Click-Based Strategy to Customize Injectable Polymer–Nanoparticle Hydrogel Properties for Therapeutic Delivery. _Biomaterials Science_ 2025.
 
 * Song, Y. E.; **Eckman, N.**; Sen, S.; Jons, C. K.; Saouaf, O. M.; Appel, E. A. Highly Extensible Physically Crosslinked Hydrogels for High-Speed 3D Bioprinting. _Advanced Healthcare Materials_ 2025, 14 (10), 2404988.
 
@@ -32,7 +32,7 @@ We describe the fundamental roles of biomaterials as both manufacturing platform
 
 * Prossnitz, A. N.; Nguyen, L. T.; **Eckman, N.**; Borkar, S.; Tetef, S.; Autzen, A. A.; Fuller, G. G.; Appel, E. A. Defining Structure-Function Relationships of Amphiphilic Excipients Enables Rational Design of Ultra-Stable Biopharmaceuticals. _Advanced Science_ 2025, 12 (8), 2409604.
 
-* Jons, C. K.; Kasse, C. M.; Mayer, B. T.; Hyrien, O.; Sen, S.; Meany, E. L.; d’Aquino, A. I.; Ganesh, P.; **Eckman, N.**; Dong, C.; others. [Engineering Sustained-Release Broadly Neutralizing Antibody Formulations.](https://www.biorxiv.org/content/10.1101/2025.05.27.656504v1) bioRxiv 2025, 2025–05.
+* Jons, C. K.; Kasse, C. M.; Mayer, B. T.; Hyrien, O.; Sen, S.; Meany, E. L.; d’Aquino, A. I.; Ganesh, P.; **Eckman, N.**; Dong, C.; others. Engineering Sustained-Release Broadly Neutralizing Antibody Formulations. bioRxiv 2025, 2025–05.
 
 * Kong, G.; Song, Y.; Yan, Y.; Calderazzo, S. M.; Saddala, M. S.; Rivera, F. D. L.; Cherry, J. D.; **Eckman, N.**; Appel, E. A.; Velenosi, A.; others. Clonally Expanded, Targetable, Natural Killer-like NKG7 T Cells Seed the Aged Spinal Cord to Disrupt Myeloid-Dependent Wound Healing. Neuron 2025.
 
