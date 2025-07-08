@@ -10,25 +10,17 @@ header_pages:
   - papers.md
   - blog.md
   - nature.md
-
-# Social links (optional):
-social_links:
-  - { platform: github, user_url: "https://github.com/neckman99" }
-  - { platform: linkedin, user_url: "https://linkedin.com/in/neckman" }
-  - { platform: twitter, icon: x-twitter, user_url: "https://x.com/noaheckman" }
+  
 minima:
+  skin: dark
   social_links:
     - title: Tweets from both sides of my brain
       icon: x-twitter
       url: "https://x.com/noaheckman"
-    
     - title: LinkedIn
       icon: LinkedIn
       url: "https://www.linkedin.com/in/neckman"
-
-    skin: dark
-
-
+      
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
