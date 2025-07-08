@@ -13,7 +13,7 @@ minima:
   social_links:
     - title: Noah on Twitter
       icon: x-twitter
-      url: "https://x.com/jekyllrb"
+      url: "https://x.com/neckman"
 
 header_pages:
   - bio.md
