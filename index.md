@@ -5,35 +5,29 @@ layout: page
 <style>
 .split-container {
   display: flex;
-  flex-wrap: wrap;
+  flex-direction: column;  /* stack vertically */
   align-items: center;
   gap: 20px;
 }
 
-.split-left {
-  flex: 0 0 60%; /* Left side takes 60% width */
-  min-width: 300px;
-}
-
 .split-left img {
-  width: 100%;  /* Make image fill the container width */
+  width: 100%;
+  max-width: 600px;  /* optional max width */
   height: auto;
   border-radius: 8px;
-  object-fit: cover;
 }
 
 .split-right {
-  flex: 0 0 40%; /* Right side takes 40% width */
-  min-width: 200px;
+  max-width: 600px;  /* keep text aligned nicely */
   font-size: 1.1rem;
   line-height: 1.5;
+  text-align: left;
 }
 </style>
 
-
 <div class="split-container">
   <div class="split-left">
-    <img src="/assets/headshot.jpg" alt="NJE" />
+    <img src="/assets/headshot.jpg" alt="NE" />
   </div>
   <div class="split-right">
     <h2>about me</h2>
