@@ -3,7 +3,8 @@ author: neckman
 description: >
   Noah Eckman's homepage on the internet.
 
-remote_theme: jekyll/minima@3cdd14d
+remote_theme: jekyll/minima@0b7ca6b
+
 plugins:
   - jekyll-remote-theme
   - jekyll-feed
