@@ -31,6 +31,6 @@ layout: page
   </div>
   <div class="split-right">
     <h2>about me</h2>
-    I'm a researcher and chemical engineer interested in the future of drug delivery, polymers, and digital biology. Poke around here to have a look at my CV, projects, and more.
+    I'm a researcher and chemical engineer interested in the future of drug delivery, polymers, and digital biology. Poke around here to have a look at my [CV](/bio/), [projects](/papers/), and [more](/nature/).
   </div>
 </div>
