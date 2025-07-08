@@ -34,14 +34,14 @@ We describe the fundamental roles of biomaterials as both manufacturing platform
 
 * Jons, C. K.; Kasse, C. M.; Mayer, B. T.; Hyrien, O.; Sen, S.; Meany, E. L.; d’Aquino, A. I.; Ganesh, P.; **Eckman, N.**; Dong, C.; others. Engineering Sustained-Release Broadly Neutralizing Antibody Formulations. bioRxiv 2025, 2025–05.
 
-* Kong, G.; Song, Y.; Yan, Y.; Calderazzo, S. M.; Saddala, M. S.; Rivera, F. D. L.; Cherry, J. D.; **Eckman, N.**; Appel, E. A.; Velenosi, A.; others. Clonally Expanded, Targetable, Natural Killer-like NKG7 T Cells Seed the Aged Spinal Cord to Disrupt Myeloid-Dependent Wound Healing. Neuron 2025.
+* Kong, G.; Song, Y.; Yan, Y.; Calderazzo, S. M.; Saddala, M. S.; Rivera, F. D. L.; Cherry, J. D.; **Eckman, N.**; Appel, E. A.; Velenosi, A.; others. Clonally Expanded, Targetable, Natural Killer-like NKG7 T Cells Seed the Aged Spinal Cord to Disrupt Myeloid-Dependent Wound Healing. _Neuron_ 2025.
 
 * Tang, S.; Pederson, Z.; Meany, E. L.; Yen, C.-W.; Swansiger, A. K.; Prell, J. S.; Chen, B.; Grosskopf, A. K.; Eckman, N.; Jiang, G.; others. Label-Free Composition Analysis of Supramolecular Polymer–Nanoparticle Hydrogels by Reversed-Phase Liquid Chromatography Coupled with a Charged Aerosol Detector. _Analytical Chemistry_ 2024, 96 (15), 5860–5868.
 
 
 <h3>designing better vaccines</h3>
 
-* Meany, E. L.; Klich, J. H.; et al; **Eckman, N.**; et al. Generation of an Inflammatory Niche in a Hydrogel Depot through Recruitment of Key Immune Cells Improves Efficacy of mRNA Vaccines. Science Advances 2025, 11 (15), eadr2631.
+* Meany, E. L.; Klich, J. H.; et al; **Eckman, N.**; et al. Generation of an Inflammatory Niche in a Hydrogel Depot through Recruitment of Key Immune Cells Improves Efficacy of mRNA Vaccines. _Science Advances_ 2025, 11 (15), eadr2631.
 
 * Yan, J.; Ou, B. S.; Saouaf, O. M.; Meany, E. L.; **Eckman, N.**; Appel, E. A. A Regimen Compression Strategy for Commercial Vaccines Leveraging an Injectable Hydrogel Depot Technology for Sustained Vaccine Exposure. _Advanced Therapeutics_ 2024, 7 (1), 2300108.
 
@@ -52,9 +52,13 @@ We describe the fundamental roles of biomaterials as both manufacturing platform
 
 <h3>3d printed microelectronics</h3>
 
-* Restaino, M.; **Eckman, N.**; Alsharhan, A. T.; Lamont, A. C.; Anderson, J.; Weinstein, D.; Hall, A.; Sochol, R. D. In Situ Direct Laser Writing of 3D Graphene-Laden Microstructures. Advanced Materials Technologies 2021, 6 (8), 2100222.
+* Restaino, M.; **Eckman, N.**; Alsharhan, A. T.; Lamont, A. C.; Anderson, J.; Weinstein, D.; Hall, A.; Sochol, R. D. In Situ Direct Laser Writing of 3D Graphene-Laden Microstructures. _Advanced Materials Technologies_ 2021, 6 (8), 2100222.
 
 
 <h3>energetic materials</h3>
 
-* Rehwoldt, M. C.; Wang, H.; Kline, D. J.; Wu, T.; **Eckman, N.**; Wang, P.; Agrawal, N. R.; Zachariah, M. R. Ignition and Combustion Analysis of Direct Write Fabricated Aluminum/Metal Oxide/PVDF Films. Combustion and Flame 2020, 211, 260–269.
+* Wang, H.; Shen, J.; Kline, D. J.; **Eckman, N.**; Agrawal, N. R.; Wu, T.; Wang, P.; Zachariah, M. R. Direct Writing of a 90 Wt% Particle Loading Nanothermite. _Advanced Materials_ 2019, 31 (23), 1806575.
+
+* Kline, D. J.; Rehwoldt, M. C.; Wang, H.; **Eckman, N.**; Zachariah, M. R. Why Does Adding a Poor Thermal Conductor Increase Propagation Rate in Solid Propellants? _Applied Physics Letters_ 2019, 115 (11).
+
+* Rehwoldt, M. C.; Wang, H.; Kline, D. J.; Wu, T.; **Eckman, N.**; Wang, P.; Agrawal, N. R.; Zachariah, M. R. Ignition and Combustion Analysis of Direct Write Fabricated Aluminum/Metal Oxide/PVDF Films. _Combustion and Flame_ 2020, 211, 260–269.
