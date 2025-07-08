@@ -14,11 +14,14 @@ minima:
   #     * solarized-light    Light variant of solarized color scheme.
   #     * solarized-dark     Dark variant of solarized color scheme.
   #     * solarized          Adaptive skin for solarized color scheme skins.
-  skin: solarized-dark
+  skin: dark
   social_links:
-    - title: That Website (thoughts from both sides of my brain)
+    - title: Minima Theme repository at GitHub
+      icon: github
+      url: "https://github.com/jekyll/minima"
+    - title: Jekyll at X (formerly Twitter)
       icon: x-twitter
-      url: "https://x.com/noaheckman"
+      url: "https://x.com/jekyllrb"
 
 header_pages:
   - bio.md
