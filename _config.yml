@@ -1,16 +1,24 @@
 title: Noah Eckman
 author: neckman
+description: >
+  Noah Eckman's homepage on the internet.
+
 theme: minima
 
 minima:
-  skin: dark
+  # Minima skin selection. Available skins are:
+  #   Available skins:
+  #     * classic            Default, light color scheme.
+  #     * dark               Dark variant of the classic skin.
+  #     * auto               Adaptive skin based on the default classic and dark skins.
+  #     * solarized-light    Light variant of solarized color scheme.
+  #     * solarized-dark     Dark variant of solarized color scheme.
+  #     * solarized          Adaptive skin for solarized color scheme skins.
+  skin: solarized-dark
   social_links:
-    - title: Tweets from both sides of my brain
+    - title: That Website (thoughts from both sides of my brain)
       icon: x-twitter
       url: "https://x.com/noaheckman"
-    - title: LinkedIn
-      icon: LinkedIn
-      url: "https://www.linkedin.com/in/neckman"
 
 header_pages:
   - bio.md
