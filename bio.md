@@ -4,4 +4,4 @@ title: bio
 permalink: /bio/
 ---
 
-This is my bio page. I'm a PhD student in Chemical Engineering at Stanford. Check out [my LinkedIn](https://www.linkedin.com/in/neckman).
+[View a copy of my CV here!](assets/2025_Eckman_CV.pdf)
