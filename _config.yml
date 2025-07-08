@@ -15,8 +15,23 @@ header_pages:
 social_links:
   - { platform: github, user_url: "https://github.com/neckman99" }
   - { platform: linkedin, user_url: "https://linkedin.com/in/neckman" }
-  - { platform: twitter, user_url: "https://x.com/noaheckman" }
+  - { platform: twitter, icon: x-twitter, user_url: "https://x.com/noaheckman" }
+minima:
+  social_links:
+    - title: Tweets from both sides of my brain
+      icon: x-twitter
+      url: "https://x.com/noaheckman"
+    
+    - title: LinkedIn
+      icon: LinkedIn
+      url: "https://www.linkedin.com/in/neckman"
+
+    skin: dark
+
 
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
+
+include:
+  - _includes/head-custom.html
