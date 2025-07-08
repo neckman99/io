@@ -1,6 +1,5 @@
 ---
 layout: page
-title: About me
 ---
 
 <style>
@@ -10,20 +9,27 @@ title: About me
   align-items: center;
   gap: 20px;
 }
-.split-left, .split-right {
-  flex: 1 1 45%;
+
+.split-left {
+  flex: 0 0 60%; /* Left side takes 60% width */
   min-width: 300px;
 }
+
 .split-left img {
-  max-width: 100%;
+  width: 100%;  /* Make image fill the container width */
   height: auto;
   border-radius: 8px;
+  object-fit: cover;
 }
+
 .split-right {
+  flex: 0 0 40%; /* Right side takes 40% width */
+  min-width: 200px;
   font-size: 1.1rem;
   line-height: 1.5;
 }
 </style>
+
 
 <div class="split-container">
   <div class="split-left">
