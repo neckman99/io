@@ -3,10 +3,13 @@ author: neckman
 description: >
   Noah Eckman's homepage on the internet.
 
-theme: minima
-
+remote_theme: jekyll/minima
+plugins:
+  - jekyll-remote-theme
+  - jekyll-feed
+  - jekyll-seo-tag
 minima:
-  skin: dark
+  skin: dark # or auto if you want it to switch with your system settings.
   social_links:
     - title: Noah on Twitter
       icon: x-twitter
@@ -17,10 +20,6 @@ header_pages:
   - papers.md
   - blog.md
   - nature.md
-
-plugins:
-  - jekyll-feed
-  - jekyll-seo-tag
 
 #include:
 #  - _includes/head-custom.html
