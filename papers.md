@@ -4,6 +4,8 @@ title: papers
 permalink: /papers/
 ---
 
+[My Google scholar](https://scholar.google.com/citations?user=w43oCsEAAAAJ&hl=en) is always updated, even if this page isn't.
+
 <h2>first author papers:</h2>
 
 * **Eckman, N.**; Appel, E. A. [Crosslink Dynamics Control Injection Force and Flow Profiles of Non-Covalent Gels.](https://pubs.acs.org/doi/full/10.1021/acs.macromol.5c00854) _Macromolecules_ 2025, 58 (12), 6350–6358.
@@ -22,14 +24,37 @@ We describe the fundamental roles of biomaterials as both manufacturing platform
 
 <h3>making new biomaterials</h3>
 
+* Bailey, S. J.; **Eckman, N.**; Brunel, E. S.; Jons, C. K.; Sen, S.; Appel, E. A. [A Thiol–Ene Click-Based Strategy to Customize Injectable Polymer–Nanoparticle Hydrogel Properties for Therapeutic Delivery.](https://pubs.rsc.org/en/content/articlelanding/2025/bm/d4bm01315h) _Biomaterials Science_ 2025.
+
+* Song, Y. E.; **Eckman, N.**; Sen, S.; Jons, C. K.; Saouaf, O. M.; Appel, E. A. Highly Extensible Physically Crosslinked Hydrogels for High-Speed 3D Bioprinting. _Advanced Healthcare Materials_ 2025, 14 (10), 2404988.
+
+* Jons, C. K.^; Prossnitz, A. N.^; **Eckman, N.**; Dong, C.; Utz, A.; Appel, E. A. Glassy Surfactants Enable Ultra-High Concentration Biologic Therapeutics. _Science Translational Medicine_ 2025, In Press.
+
+* Prossnitz, A. N.; Nguyen, L. T.; **Eckman, N.**; Borkar, S.; Tetef, S.; Autzen, A. A.; Fuller, G. G.; Appel, E. A. Defining Structure-Function Relationships of Amphiphilic Excipients Enables Rational Design of Ultra-Stable Biopharmaceuticals. _Advanced Science_ 2025, 12 (8), 2409604.
+
+* Jons, C. K.; Kasse, C. M.; Mayer, B. T.; Hyrien, O.; Sen, S.; Meany, E. L.; d’Aquino, A. I.; Ganesh, P.; **Eckman, N.**; Dong, C.; others. [Engineering Sustained-Release Broadly Neutralizing Antibody Formulations.](https://www.biorxiv.org/content/10.1101/2025.05.27.656504v1) bioRxiv 2025, 2025–05.
+
+* Kong, G.; Song, Y.; Yan, Y.; Calderazzo, S. M.; Saddala, M. S.; Rivera, F. D. L.; Cherry, J. D.; **Eckman, N.**; Appel, E. A.; Velenosi, A.; others. Clonally Expanded, Targetable, Natural Killer-like NKG7 T Cells Seed the Aged Spinal Cord to Disrupt Myeloid-Dependent Wound Healing. Neuron 2025.
+
+* Tang, S.; Pederson, Z.; Meany, E. L.; Yen, C.-W.; Swansiger, A. K.; Prell, J. S.; Chen, B.; Grosskopf, A. K.; Eckman, N.; Jiang, G.; others. Label-Free Composition Analysis of Supramolecular Polymer–Nanoparticle Hydrogels by Reversed-Phase Liquid Chromatography Coupled with a Charged Aerosol Detector. _Analytical Chemistry_ 2024, 96 (15), 5860–5868.
+
 
 <h3>designing better vaccines</h3>
 
+* Meany, E. L.; Klich, J. H.; et al; **Eckman, N.**; et al. Generation of an Inflammatory Niche in a Hydrogel Depot through Recruitment of Key Immune Cells Improves Efficacy of mRNA Vaccines. Science Advances 2025, 11 (15), eadr2631.
+
+* Yan, J.; Ou, B. S.; Saouaf, O. M.; Meany, E. L.; **Eckman, N.**; Appel, E. A. A Regimen Compression Strategy for Commercial Vaccines Leveraging an Injectable Hydrogel Depot Technology for Sustained Vaccine Exposure. _Advanced Therapeutics_ 2024, 7 (1), 2300108.
 
 <h3>fluid mechanics</h3>
+
+* Kroo, L.; Binagia, J. P.; **Eckman, N.**; Prakash, M.; Shaqfeh, E. S. A Freely Suspended Robotic Swimmer Propelled by Viscoelastic Normal Stresses. _Journal of Fluid Mechanics_ 2022, 944, A20.
 
 
 <h3>3d printed microelectronics</h3>
 
+* Restaino, M.; **Eckman, N.**; Alsharhan, A. T.; Lamont, A. C.; Anderson, J.; Weinstein, D.; Hall, A.; Sochol, R. D. In Situ Direct Laser Writing of 3D Graphene-Laden Microstructures. Advanced Materials Technologies 2021, 6 (8), 2100222.
+
 
 <h3>energetic materials</h3>
+
+* Rehwoldt, M. C.; Wang, H.; Kline, D. J.; Wu, T.; **Eckman, N.**; Wang, P.; Agrawal, N. R.; Zachariah, M. R. Ignition and Combustion Analysis of Direct Write Fabricated Aluminum/Metal Oxide/PVDF Films. Combustion and Flame 2020, 211, 260–269.
