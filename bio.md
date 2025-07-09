@@ -21,9 +21,12 @@ My CV has much more info - [view a copy here.](assets/2025_Eckman_CV.pdf)
   grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
   gap: 10px;
   margin-top: 1em;
+  place-items: center;  /* <-- centers content both horizontally and vertically */
 }
 .gallery img {
-  width: 45%;
+  width: 100%;
+  max-width: 280px;
+  height: auto;
   border-radius: 8px;
   box-shadow: 0 2px 4px rgba(0,0,0,0.15);
   transition: transform 0.2s;
@@ -32,3 +35,5 @@ My CV has much more info - [view a copy here.](assets/2025_Eckman_CV.pdf)
   transform: scale(1.08);
 }
 </style>
+
+
