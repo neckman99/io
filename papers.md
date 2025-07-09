@@ -12,13 +12,25 @@ permalink: /papers/
 
 This paper seeks to answer the question: what if making a gel _stiffer_ made it easier to inject? We report surprising trends in injection force for dynamic hydrogels and develop a new model to predict injectability. We hope this model and insight will be useful to users of injectable gels in the drug formulation and 3D bioprinting communities- it's a critical step towards connecting measured material properties and predicting operating conditions for injectors and extruders.
 
+<p style="text-align: center;">
+  <img src="/assets/macromol_TOC.png" alt="TOC" style="max-width: 600px; border-radius: 8px;">
+</p>
+
 * **Eckman, N.**; Grosskopf, A. K.; Jiang, G.; Kamani, K.; Huang, M. S.; Schmittlein, B.; Heilshorn, S. C.; Rogers, S.; Appel, E. A. [Crosslink Strength Governs Yielding Behavior in Dynamically Crosslinked Hydrogels.](https://doi.org/10.1039/D4BM01323A.) _Biomaterials Science_ 2025, 13 (6), 1501–1511. 
 
 What controls the viability of encapsulated cells in injectable hydrogels? We use rheological tools including large-amplitude oscillatory shear to demonstrate the rapidity of the yielding transition, controlled by the network crosslink strength, is responsible for post-injection viability (while controlling for the network modulus).
 
+<p style="text-align: center;">
+  <img src="/assets/BMS_toc.png" alt="TOC" style="max-width: 600px; border-radius: 8px;">
+</p>
+
 * **Eckman, N.^**; Nejatfard, A.^; Cavet, R.^; Grosskopf, A. K.; Appel, E. A. [Biomaterials to Enhance Adoptive Cell Therapy.](https://www.nature.com/articles/s44222-023-00148-z) _Nature Reviews Bioengineering_ 2024, 2 (5), 408–424.
 
 We describe the fundamental roles of biomaterials as both manufacturing platforms and delivery vehicles for enhancing ACT, and highlight current and future applications of these materials-based approaches that could lead to improved therapeutic outcomes.
+
+<p style="text-align: center;">
+  <img src="/assets/nre_toc.png" alt="TOC" style="max-width: 600px; border-radius: 8px;">
+</p>
 
 <h2>other contributions by area:</h2>
 
