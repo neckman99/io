@@ -23,12 +23,12 @@ My CV has much more info - [view a copy here.](assets/2025_Eckman_CV.pdf)
   margin-top: 1em;
 }
 .gallery img {
-  width: 100%;
+  width: 45%;
   border-radius: 8px;
   box-shadow: 0 2px 4px rgba(0,0,0,0.15);
   transition: transform 0.2s;
 }
 .gallery img:hover {
-  transform: scale(1.33);
+  transform: scale(1.08);
 }
 </style>
