@@ -44,22 +44,24 @@ We describe the fundamental roles of biomaterials as both manufacturing platform
 
 * Prossnitz, A. N.; Nguyen, L. T.; **Eckman, N.**; Borkar, S.; Tetef, S.; Autzen, A. A.; Fuller, G. G.; Appel, E. A. Defining Structure-Function Relationships of Amphiphilic Excipients Enables Rational Design of Ultra-Stable Biopharmaceuticals. _Advanced Science_ 2025, 12 (8), 2409604.
 
-* Jons, C. K.; Kasse, C. M.; Mayer, B. T.; Hyrien, O.; Sen, S.; Meany, E. L.; d’Aquino, A. I.; Ganesh, P.; **Eckman, N.**; Dong, C.; others. Engineering Sustained-Release Broadly Neutralizing Antibody Formulations. bioRxiv 2025, 2025–05.
+* Williams, S.C.; ...; **Eckman, N.**; Appel, E.A. Intranasal Sertraline for the Investigation of Nose-to-Brain Delivery to Mitigate Systemic Exposure. _ACS Pharmacology & Translational Science_ 2025.
 
-* Kong, G.; Song, Y.; Yan, Y.; Calderazzo, S. M.; Saddala, M. S.; Rivera, F. D. L.; Cherry, J. D.; **Eckman, N.**; Appel, E. A.; Velenosi, A.; others. Clonally Expanded, Targetable, Natural Killer-like NKG7 T Cells Seed the Aged Spinal Cord to Disrupt Myeloid-Dependent Wound Healing. _Neuron_ 2025.
+* Jons, C. K.; ...; **Eckman, N.**; others. Engineering Sustained-Release Broadly Neutralizing Antibody Formulations. bioRxiv 2025, 2025–05.
 
-* Tang, S.; Pederson, Z.; Meany, E. L.; Yen, C.-W.; Swansiger, A. K.; Prell, J. S.; Chen, B.; Grosskopf, A. K.; Eckman, N.; Jiang, G.; others. Label-Free Composition Analysis of Supramolecular Polymer–Nanoparticle Hydrogels by Reversed-Phase Liquid Chromatography Coupled with a Charged Aerosol Detector. _Analytical Chemistry_ 2024, 96 (15), 5860–5868.
+* Kong, G.; ...; **Eckman, N.**; others. Clonally Expanded, Targetable, Natural Killer-like NKG7 T Cells Seed the Aged Spinal Cord to Disrupt Myeloid-Dependent Wound Healing. _Neuron_ 2025.
+
+* Tang, S.; ...; **Eckman, N.**; others. Label-Free Composition Analysis of Supramolecular Polymer–Nanoparticle Hydrogels by Reversed-Phase Liquid Chromatography Coupled with a Charged Aerosol Detector. _Analytical Chemistry_ 2024, 96 (15), 5860–5868.
 
 
 <h3>designing better vaccines</h3>
 
-* Meany, E. L.; Klich, J. H.; et al; **Eckman, N.**; et al. Generation of an Inflammatory Niche in a Hydrogel Depot through Recruitment of Key Immune Cells Improves Efficacy of mRNA Vaccines. _Science Advances_ 2025, 11 (15), eadr2631.
+* Meany, E. L.; ...; **Eckman, N.**; others. Generation of an Inflammatory Niche in a Hydrogel Depot through Recruitment of Key Immune Cells Improves Efficacy of mRNA Vaccines. _Science Advances_ 2025, 11 (15), eadr2631.
 
-* Yan, J.; Ou, B. S.; Saouaf, O. M.; Meany, E. L.; **Eckman, N.**; Appel, E. A. A Regimen Compression Strategy for Commercial Vaccines Leveraging an Injectable Hydrogel Depot Technology for Sustained Vaccine Exposure. _Advanced Therapeutics_ 2024, 7 (1), 2300108.
+* Yan, J.; ...; **Eckman, N.**; Appel, E. A. A Regimen Compression Strategy for Commercial Vaccines Leveraging an Injectable Hydrogel Depot Technology for Sustained Vaccine Exposure. _Advanced Therapeutics_ 2024, 7 (1), 2300108.
 
 <h3>fluid mechanics</h3>
 
-* Kroo, L.; Binagia, J. P.; **Eckman, N.**; Prakash, M.; Shaqfeh, E. S. A Freely Suspended Robotic Swimmer Propelled by Viscoelastic Normal Stresses. _Journal of Fluid Mechanics_ 2022, 944, A20.
+* Kroo, L.^; Binagia, J. P.^; **Eckman, N.**; Prakash, M.; Shaqfeh, E. S. A Freely Suspended Robotic Swimmer Propelled by Viscoelastic Normal Stresses. _Journal of Fluid Mechanics_ 2022, 944, A20.
 
 
 <h3>3d printed microelectronics</h3>
