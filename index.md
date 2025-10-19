@@ -32,5 +32,8 @@ layout: page
   <div class="split-right">
     <h2>about me</h2>
     I'm a researcher and chemical engineer interested in the future of drug delivery, polymers, and digital biology. Poke around here to have a look at my <a href="/bio/">CV</a>, <a href="/papers/">projects</a>, and <a href="/nature/">more</a>.
+    <h2>contact</h2>
+    Follow me on [TwitterX](https://x.com/noaheckman), connect on [LinkedIn](https://www.linkedin.com/in/neckman/), or shoot me an [email](mailto:neckman@stanford.edu).
   </div>
+  
 </div>
