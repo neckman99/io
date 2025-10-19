@@ -33,7 +33,7 @@ layout: page
     <h2>about me</h2>
     I'm a researcher and chemical engineer interested in the future of drug delivery, polymers, and digital biology. Poke around here to have a look at my <a href="/bio/">CV</a>, <a href="/papers/">projects</a>, and <a href="/nature/">more</a>.
     <h2>contact</h2>
-    Follow me on [TwitterX](https://x.com/noaheckman), connect on [LinkedIn](https://www.linkedin.com/in/neckman/), or shoot me an [email](mailto:neckman@stanford.edu).
+    Follow me on <a href="https://x.com/noaheckman">Twitter/X</a>, connect on <a href="https://linkedin.com/in/neckman">LinkedIn</a>, or shoot me an <a href="mailto:neckman@stanford.edu">email</a>.
   </div>
   
 </div>
