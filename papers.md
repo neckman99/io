@@ -8,6 +8,14 @@ permalink: /papers/
 
 <h2>first author papers:</h2>
 
+* **Eckman, N.**; Saouaf, O.M.; Jons, C.K.; Pingali, S.V.; Prossnitz, A.N.; Kasse, C.M.; Mai, D.J.; Appel, E.A. [Small-angle neutron scattering reveals structural hierarchy of polymer–nanoparticle hydrogels.](https://chemrxiv.org/engage/chemrxiv/article-details/68ed36bc5dd091524f41bde2) _In Review_, 2025.
+
+The Appel group has used polymer-nanoparticle hydrogels for many applications from vaccine to cell delivery, but we've never had a good picture of their microstructure and mesh size that makes them work. Here, we utilize contrast-matched small-angle neutron scattering to fit structural models and solve the microstructure of this material. These results leverage neutron scattering techniques to probe the structure of disordered, self-assembled hydrogels and enable future engineering and optimization of supramolecular materials.
+
+<p style="text-align: center;">
+  <img src="/assets/SANS_TOC.png" alt="TOC" style="max-width: 600px; border-radius: 8px;">
+</p>
+
 * **Eckman, N.**; Appel, E. A. [Crosslink Dynamics Control Injection Force and Flow Profiles of Non-Covalent Gels.](https://pubs.acs.org/doi/full/10.1021/acs.macromol.5c00854) _Macromolecules_ 2025, 58 (12), 6350–6358.
 
 This paper seeks to answer the question: what if making a gel _stiffer_ made it easier to inject? We report surprising trends in injection force for dynamic hydrogels and develop a new model to predict injectability. We hope this model and insight will be useful to users of injectable gels in the drug formulation and 3D bioprinting communities- it's a critical step towards connecting measured material properties and predicting operating conditions for injectors and extruders.
